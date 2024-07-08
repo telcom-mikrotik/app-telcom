@@ -1,0 +1,25 @@
+.input__contact {
+  padding: 0.8rem 1.5rem;
+  border-radius: 1rem;
+  transition: border-color 0.3s ease-in-out;
+
+  &:focus {
+    border-color: theme("colors.primary");
+    outline: none;
+  }
+}
+
+.button__submit {
+  transform: translateY(0);
+
+  &:hover {
+    background-color: theme("colors.secondary.500");
+    transform: translateY(-5px);
+  }
+}
+
+@media (min-width: 550px) {
+  .form__group {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

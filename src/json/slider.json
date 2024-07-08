@@ -1,0 +1,19 @@
+{
+  "slider": [
+    {
+      "img": "/slider/slider_1.jpg",
+      "name": "TELCOM MIKROTIK PERÚ",
+      "description": "No solo es internet es implementación y solución integral para tu empresa"
+    },
+    {
+      "img": "/slider/slider_2.jpg",
+      "name": "TELCOM MIKROTIK PERÚ",
+      "description": "No solo es internet es servicio y equipamiento y solución integral para tu empresa."
+    },
+    {
+      "img": "/slider/slider_3.jpg",
+      "name": "TELCOM MIKROTIK PERÚ",
+      "description": "No solo es internet es servicio y equipamiento y solución integral para tu empresa."
+    }
+  ]
+}

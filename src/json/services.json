@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "title": "INTERNET DEDICADO",
+      "image": "/services/INTERNET_DEDICADO.png"
+    },
+    {
+      "title": "SOPORTE Y CONFIGURACIONES",
+      "image": "/services/SOPORTE_CONFIGURACIONES.png"
+    },
+    {
+      "title": "ASESORIA DE EQUIPAMIENTO PARA UNA RED FTTH.",
+      "image": "/services/ASESORIA.png"
+    },
+    {
+      "title": "BALANCEO DE CARGA DE LÍNEAS CON RECURSIVIDAD Y FAILOVER, BALANCEO PBR",
+      "image": "/services/ASESORIA.png"
+    },
+    {
+      "title": "CONFIGURACIÓN DE ADMINISTRADOR (SERVIDOR PPPOE/PLANES DE VELOCIDAD/REUSO/RAFAGAS.",
+      "image": "/services/CONFIGURACION_ADMINISTRADOR.jpg"
+    },
+    {
+      "title": "DIAGNÓSTICO Y SOLUCION DE RED , DESDE ROUTER DE BORDE - OLT - USUARIO FINAL.",
+      "image": "/services/DIAGNOSTICO.png"
+    },
+    {
+      "title": "CONFIGURACIÓN DE (OLT) DE TODAS MARCAS.",
+      "image": "/services/OLT.png"
+    },
+    {
+      "title": "SERVICIO VPN PARA ACCEDER DE CUALQUIER PARTE DEL MUNDO A TU RED 100% SEGURA.",
+      "image": "/services/VPN.png"
+    }
+  ]
+}

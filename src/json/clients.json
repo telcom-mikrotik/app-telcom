@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "name": "BIGNET",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/BIGNET.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    },
+    {
+      "name": "COMNEX PERÚ",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/COMNEX_PERU.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    },
+    {
+      "name": "SANJITEL",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/SANJITEL.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    },
+    {
+      "name": "SYSCON",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/SYSCON.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    },
+    {
+      "name": "TIPC",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/TIPC.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    },
+    {
+      "name": "APUNET",
+      "description": "Empresa de telecomunicaciones",
+      "image": "/clients/APUNET.jpg",
+      "facebook": "",
+      "instagram": "",
+      "email": ""
+    }
+  ]
+}

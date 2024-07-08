@@ -1,0 +1,12 @@
+.clip-hidden {
+  clip-path: ellipse(0 0 at 0% 0%);
+  opacity: 0;
+}
+.clip-visible {
+  clip-path: ellipse(850px 850px at 600px 0%);
+}
+
+.content {
+  @apply absolute w-full z-[5] text-center backdrop-blur-[2px] duration-[1s] px-0 py-[15px] left-0 bottom-0;
+  background: #ffffffa8;
+}

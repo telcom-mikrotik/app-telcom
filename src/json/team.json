@@ -1,0 +1,24 @@
+{
+  "team": [
+    {
+      "name": "Andrés Iván Acosta Portocarrero",
+      "booth": "Gerente General",
+      "phone": "+51 976 910 930",
+      "email": "iacosta@mikrotik.pe",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "image": "/team/team_1.png"
+    },
+    {
+      "name": "Claudia Estefany Cordova Reluz",
+      "booth": "Administración",
+      "phone": "+51 993 743 221",
+      "email": "cordovareluz@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "image": "/team/team_2.png"
+    }
+  ]
+}
